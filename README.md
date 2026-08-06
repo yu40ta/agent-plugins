@@ -1,4 +1,4 @@
-# skills
+# agent-plugins
 
 Curated skills for Claude Code and other agent harnesses, published in [agentskills.io](https://agentskills.io) `SKILL.md` format.
 
